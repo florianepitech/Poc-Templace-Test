@@ -6,5 +6,5 @@ import (
 )
 
 func main() {
-	fmt.Println("Fix bug")
+	fmt.Println("Fix bug !")
 }
